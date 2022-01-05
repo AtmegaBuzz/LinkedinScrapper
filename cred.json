@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "scrappingbotapi",
+  "private_key_id": "24e8b8e480c951890ea27c7a389168aabea24fba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDClFNSihgj8Hn+\n/omb1wOsajMDgm6G0aLO1bgOJ8XDJ41lRrDsfA76A0qpLG2n+0V+uwglckmYSVVI\nM1CiTxMl75lHfz5k30K6bV0r+IrEKN/vG2nmSidFLd6Csmx/gDsJkAKT5fwS0HK7\n7h66c835Jw9ZAX03rSiRTEyuuJGGzQJTJ274Af5fCEXyGn5EyQX1DB3jOwFirSx9\npMileg36VoQyZOsrgvWBwc5rpaa08n5luxRUkVspGwC8XvKa66aIEZBiwZnd9AkD\n0WHkXppciq8E72QQBSC87N8WFy4gMrzCB5mApG7klTCEeLWmkVtxDa78/Y7XjSpn\nc1wsA8IhAgMBAAECggEAAtLSLrVwSj04F/orlwZUuFDGMrvWzMAIA8ZYKGRtWzqc\ns6aF9LiMIxafI7tQUAq2ZHNkV97DsKEHysdr2R8aoQdMCxyOlDolJr1lh7jQkq4h\nKcAVFlFnJnrW6sCaEHOU57uePfUtZjx+HboD2iLKD16Au4LpBUDPAOTBjBuDiRgz\n/u9sTxuIUSaTgEQ5QF9cM62Rj2tuQ7COXmwQwuWAFyH9qc2EVvpKuzEHW+AGfOWc\n2RrDeYZxjVved3t4m2sC0MCCCIr7Vwu9lPUz6bmBfBKgUzXqF77sY7LEvbZfM0OU\ntLwoyfofg74gB2n929x0fXF3EaGGPYfe6nD3ayOQzQKBgQDrOqRQHEimvANY1V9p\nGZoXAi0yfrG8oKCOcuaopz3o57DnlIPRWNZJVYTT+qRpeaG97/B5DBrfbNuU0nF6\nCJqdwEkwv9qltNpJK60arlWpElfJ8BJ1TrJfgNgT625JYvAG9NsuM/fOl2EOUZj8\njdjLpJ8yP2NbN+OvxS6ICtjkswKBgQDTwswBX6t/1NkkVq5Kk7vVonHVUoC9Uqcd\n6cjX3D8cBOV2/FELsR/24KkLbSH7kfe37BIOJkwzG22AAivmKW9j1J3mN8KlAtqX\nAjGA1lwQ5ge3odqyjEnVy4Rjqwh6xr28/AyDfWvjXbii/uol45sgHKmSP//9gGfy\nEgO46bfv2wKBgQDOTLbwv22ENZ5l2XR9E4QNq84B3BV7ThCh/emHfm2QhyqiX6Eg\nCF6fIE6HLunky1Tr5LQtJU2oJ6uIoOv+z+7ybUKDa6+R5sQOqix+Gulrh3fQ1ikK\nEsPjeHeJONCXshq6ryJPKiqqWB851Jxs2uaI607nXaqAxMp+TFvb2k+QewKBgFSF\nVcPemacmH51fc6WUnc5BTkok6fmm+cj4vQ9be10Fn0kEoJyYD/gL560F3CB7PHKO\nqQ44vwVPFz+Wnkr5kto3zOZMr0YJg5HucC/KX2jnR4FF+vJ1CCtrVeYqJ/JJTQYX\nXC9Haj6P89grAu4okIwapJwZK2XVUKfQBOhTcPUtAoGAIkKyHKVBbYF8ABcoARga\nYL9K9JxtLuNK0ELQhlN7XknS88Pn76YnyUxNLuoYIlzCHntGGfB7rrUrqpL9E6+/\nteOAgTqIVoSjUAIdnGsbW2r1ygCqOpWTMqLGAcj+dSTLgv4bQ8JnFCs5vCxMX9P5\nNB6J5VVQfTuS8kAmK7YTPtA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "linkedin-scrapper-data@scrappingbotapi.iam.gserviceaccount.com",
+  "client_id": "108101406740236528091",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/linkedin-scrapper-data%40scrappingbotapi.iam.gserviceaccount.com"
+}
